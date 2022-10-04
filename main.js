@@ -7,6 +7,11 @@ const FULL_HEART = '♥'
 
 
 
+document.getElementById("modal").classList.add('hidden');
+
+
+
+
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
 //------------------------------------------------------------------------------
